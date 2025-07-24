@@ -1,15 +1,40 @@
+
+<!-- Introducción -->
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Bitcount+Prop+Double&weight=435&size=50&duration=4000&pause=1000&color=F7882C&center=true&vCenter=true&width=1000&height=90&lines=Eduardo+Gallegos;Desarrollador+Junior;En+constante+aprendizaje" alt="Typing SVG" />
+</h1>
+
+## 👨‍💻 Sobre mí
+
+<table>
+  <tr>
+    <td width="50%">
+      🎓 Soy estudiante de Ingeniería de Sistemas, apasionado por el desarrollo de software y la inteligencia artificial.<br><br>
+      💡 Me encanta aprender nuevas tecnologías y aplicarlas en proyectos reales. Trabajo constantemente para mejorar mis habilidades como desarrollador.<br><br>
+      🌱 Actualmente estoy enfocado en desarrollo web, proyectos con inteligencia artificial y automatización.
+    </td>
+    <td>
+      🚀 Me interesa participar en proyectos innovadores y desafiantes.<br><br>
+      🛠️ Tengo experiencia con herramientas como Python, JavaScript, Vue.js, Node.js, Git, y más.<br><br>
+      📫 Me puedes contactar para colaboraciones, ideas o simplemente para hablar sobre tecnología.
+    </td>
+  </tr>
+</table>
+
+
 <!-- INTRODUCCIÓN -->
 Hola! Soy Eduardo Gallegos
 
-<!-- SOBRE MÍ -->
+<!-- SOBRE MÍ --> Ver si se puede cambiar de idioma
 Soy egresado de la carrera de Ingeniería de Sistemas e Informática.
 Me apasiona diseñar y construir soluciones con tecnología nuevas.
 Estoy en constante aprendizaje.
 
+<!-- METAS Y ASPIRACIONES -->
 Metas
 
 <!-- INVESTIGACIONES --> 
-Investigaciones
+Investigaciones (ORCID)
 
 <!-- INTERESES -->
 Mis intereses son: Inteligencia artificial, desarrollo web, data analytics.
@@ -20,6 +45,8 @@ Lenguajes de programación
 Frameworks
 
 Herramientas
+
+
 
 ### 🧰 Tecnologías y Herramientas
 
@@ -54,6 +81,7 @@ Herramientas
 <!-- CERTIFICADOS -->
 Certificados
 
+<!-- CONTACTO -->
 Como contactarme
 Facebook
 WP
